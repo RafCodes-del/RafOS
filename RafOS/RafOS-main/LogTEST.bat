@@ -1,0 +1,1 @@
+echo Second Password failure occurred %time% %date%> "%logname%.wrongpass2.txt

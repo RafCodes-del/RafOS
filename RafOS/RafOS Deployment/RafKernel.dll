@@ -1,0 +1,4 @@
+@echo off
+check drive of RafOS
+install all components from server 9
+/servercheck
