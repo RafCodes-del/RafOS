@@ -1,0 +1,18 @@
+@echo off
+echo Welcome to the land of Cascadia!
+echo.
+echo.
+echo All seems peacefull, but it is not.
+echo Your job is to destroy the evil that puts Cascadia in chaos.
+echo You will have support of the citizens of Cascadia.
+echo You are welcome to stay in any city you find fit.
+echo But remember your duties.
+pause
+echo Stranger: Hello!
+echo You: Who are you?
+echo Stranger: Oh, forgive my rudeness, I am Lord Halamark.
+echo You: Hello Lord Halamark!
+echo Halamark: Good to meet you, ummm, what was your name again?
+set /p PlayerName= What is your name:
+echo Ah, good to meet you %PlayerName%
+pause
